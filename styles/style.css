@@ -460,6 +460,14 @@ nav {
 
  .settins-menu-inner{
   padding: 20px;
+  margin: 15px 0;
+ }
+
+ .settings-menu hr{
+  border: 0;
+  height: 1px;
+  background: #9a9a9a;
+  margin: 15px 0;
  }
 
 
